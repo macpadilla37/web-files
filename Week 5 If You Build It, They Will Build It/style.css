@@ -1,0 +1,25 @@
+body {
+font-family: arial;
+}
+.Bbackground {
+  background-color: #46B2C3
+}
+.background {
+  background-color: #F7FAFA
+}
+.Dblue {
+  color: #136483
+}
+.Lblue {
+  color: #1C282E
+}
+.column {
+  float: left;
+  width: 49%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
