@@ -1,0 +1,29 @@
+body {
+text-align: center;
+font-family: arial;
+font-size: 1.25vw
+
+}
+h1 {
+font-size: 4vw
+}
+.Bbackground {
+  background-color: #46B2C3
+}
+.background {
+  background-color: #F7FAFA
+}
+.Dblue {
+  color: #136483
+}
+.Lblue {
+  color: #1C282E
+}
+.button {
+  background-color: #136483;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 60px;
+}
