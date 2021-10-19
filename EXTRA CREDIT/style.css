@@ -1,0 +1,92 @@
+.body{
+  background-color: #136483
+  }
+.section{
+  background-color: #008FBB
+}
+.section1{
+  background-color: #F7FAFA
+
+}
+.paragraph{
+  font-size: 20px;
+  color: #F7FAFA;
+
+}
+.header{
+  font-size: 100px;
+  color: #F7FAFA
+}
+.header1{
+  font-size: 85px;
+  color: #1C282E
+}
+.header2{
+  font-size: 70px;
+  color: #F7FAFA
+}
+.header3{
+  font-size: 55px;
+  color: #F7FAFA
+}
+
+.button1{
+  background-color: #136483;
+  color: white;
+  padding: 10px 45px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 12px;
+}
+.button2{
+  background-color: #1C282E;
+  color: white;
+  padding: 10px 45px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 12px;
+}
+.button3{
+  background-color: #46B2C3;
+  color: white;
+  padding: 10px 45px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 12px;
+}
+.button4{
+  background-color: #F7FAFA;
+  color: #136483;
+  padding: 10px 45px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 12px;
+}
+
+a:link {
+  color: #136483;
+}
+a:visited {
+  color: #1C282E;
+}
+a:hover {
+  color: #136483;
+}
+a:active {
+  color: #136483;
+}
+
+.border1{
+  border-style: solid;
+  border-radius: none;
+  border-color: #008FBB
+}
+.border2{
+  border-style: solid;
+  border-radius: 8px;
+  border-color: #46B2C3
+}
